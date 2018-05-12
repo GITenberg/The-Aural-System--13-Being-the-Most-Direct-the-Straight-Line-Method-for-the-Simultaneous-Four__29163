@@ -1,0 +1,26 @@
+_repo: The-Aural-System--13-Being-the-Most-Direct-the-Straight-Line-Method-for-the-Simultaneous-Four__29163
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hardy, Charles
+    gutenberg_agent_id: '33731'
+    url: http://www.gutenberg.org/2009/agents/33731
+description: ''
+gutenberg_issued: '2009-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29163'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Languages, Modern -- Study and teaching'
+- !lcc 'PB'
+- !lcc 'LB'
+title: "The Aural System\r\nBeing the Most Direct, the Straight-Line Method for the\
+  \ Simultaneous Fourfold Mastery of a Foreign Language."
+url: http://www.gutenberg.org/ebooks/29163
